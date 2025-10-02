@@ -1,4 +1,4 @@
-# DatabaseMaker2025
+# Gene-Annotation-And-Database-Creation-Pipeline
 
 Build a local MySQL annotation database by integrating **Ensembl**, **UniProt**, and **NCBI Gene** for a given list of Ensembl *gene* stable IDs.
 
