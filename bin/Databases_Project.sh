@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 echo -e "\n============================================================="
-echo -e " Welcome to DatabaseMaker2025!"
+echo -e "Welcome to Gene-Annotation-And-Database-Creation-Pipeline!"
 echo -e "=============================================================\n"
 
 # We are asking the user if they want to load the script
@@ -290,7 +290,7 @@ then
 	echo -e "\n[INFO] Please ensure your MySQL credentials are correct.\n"
 
 # Here we ask the user for what username and password to use
-# The “-s” silences the user input thus, protecting the integrity of the database
+# The Â“-sÂ” silences the user input thus, protecting the integrity of the database
 
 	read -p $'What is your MySQL username: ' mysql_username
 
@@ -354,7 +354,7 @@ then
 	echo -e "\nYou can view the full dataset in this file."
 
 	echo -e "\n============================================================="
-	echo -e "Thank you for using DatabaseMaker2025!\n"
+	echo -e "Thank you for using the Gene-Annotation-And-Database-Creation-Pipeline!\n"
 	echo -e "Script execution complete. Have a great day!"
 	echo -e "=============================================================\n"
 else
