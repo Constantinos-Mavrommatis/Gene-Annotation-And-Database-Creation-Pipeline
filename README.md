@@ -102,7 +102,7 @@ See **INSTALL.md** for one-liners.
 
 ## Citing
 
-If you use this work, please cite via `CITATION.cff` (GitHub auto-detects this).
+If you use this work, please cite via `CITATION.cff` .
 
 ## License
 
