@@ -1,4 +1,4 @@
--- DatabaseMaker2025 schema (GitHub-friendly)
+-- Gene-Annotation-And-Database-Creation-Pipeline schema (GitHub-friendly)
 -- Generated on 2025-10-02
 -- Portable MySQL 8+ DDL; no server-specific variables or dump pragmas.
 -- Source adapted from user's schema dump.
