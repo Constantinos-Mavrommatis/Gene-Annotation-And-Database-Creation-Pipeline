@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: If you use this project, please cite it using the metadata below.
-title: DatabaseMaker2025 — Building a local MySQL annotation DB from Ensembl, UniProt and NCBI
+title: Gene-Annotation-And-Database-Creation-Pipeline — Building a local MySQL annotation DB from Ensembl, UniProt and NCBI
 authors:
   - family-names: Mavrommatis
     given-names: Constantinos
